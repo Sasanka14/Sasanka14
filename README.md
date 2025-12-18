@@ -13,8 +13,20 @@
 - ⚛️ **Frontend:** React.js, Tailwind CSS  
 - 🛠️ **Backend:** Node.js, Express.js  
 - 📊 **Databases:** MySQL, MongoDB  
-- 🏆 **Hackathon Enthusiast:** Placed **5th out of 800** in NASA Hackathon 2024  
 - 🎮 **Anime & Gaming Lover** in my free time  
+
+---
+
+## 🏆 Achievements & Competitions
+
+- 🥇 **5th Place (Global)** — **NASA Hackathon 2024**  
+  *(Ranked among 800+ teams worldwide)*
+
+- 🥉 **3rd Place** — **International Symposium 2024**
+
+- 🏅 **5th Place** — **Smart India Hackathon (SIH) Internal Round 2025**
+
+These experiences strengthened my skills in **problem framing, system design, collaboration, and execution under constraints**.
 
 ---
 
