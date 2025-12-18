@@ -19,8 +19,8 @@
 
 ## 🏆 Achievements & Competitions
 
-- 🥇 **5th Place (Global)** — **NASA Hackathon 2024**  
-  *(Ranked among 800+ teams worldwide)*
+- 🥇 **5th Place (State)** — **NASA Hackathon 2024**  
+  *(Ranked among 800+ teams Statewise)*
 
 - 🥉 **3rd Place** — **International Symposium 2024**
 
