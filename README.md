@@ -35,24 +35,16 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasanka14&theme=onedark&margin-w=15" />
-</p>
-
----
-
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sasanka-sekhar-kundu-b746072a7">
+  <a href="https://www.linkedin.com/in/sasankawrites/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sasanka14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/__kuronotsubasa__/">
+  <a href="https://www.instagram.com/sashank.codes_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://sasankawrites.netlify.app/">
