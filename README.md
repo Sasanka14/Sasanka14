@@ -59,7 +59,7 @@ These experiences strengthened my skills in **problem framing, system design, co
   <a href="https://www.instagram.com/sashank.codes_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://sasankawrites.netlify.app/">
+  <a href="https://sasankawrites.in/">
     <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
